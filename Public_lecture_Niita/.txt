@@ -1,0 +1,26 @@
+Modelling and computer simulation - Modelling the spread of infectious diseases.
+Motility
+Consider subjects as something simpler
+
+SIR Model assumptions
+1. infection may occur when S&I coexist
+2. No spontanaety
+3. No multiplications
+
+Limitations:
+Age groups are not considered
+Migrations are not considered
+Loss of immunity is not considered
+
+Plotted against time step
+computers cannot calculate derivatives
+Runge kutta method-simplicity
+
+scheme:
+-set goal on what you want to predict
+-observe phenomena you want to simulate
+-make a Model("abstract out all irrelevant details)
+-make simulation codes and run it
+-Compare simulation  and the actual phenomena
+-If agreement is not satisfactory go back to #3
+

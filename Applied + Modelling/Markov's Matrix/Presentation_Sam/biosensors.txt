@@ -1,0 +1,18 @@
+-Motility resilience of myosin based molecular shuttles
+-alignment of myosin based molecular shuttles
+
+Myosin is the prototype of a molecular motor—a protein that converts chemical ener-
+gy in the form of ATP(Adenosine triphosphate (ATP) is the source of energy for use and storage at the cellular level. The struc-
+ture of ATP is a nucleoside triphosphate, consisting of a nitrogenous base (adenine), a ribose sugar, and three serially bon-
+ded) to mechanical energy, thus generating force and movement.
+Hydrolysis - ATP +H2O = ADP + Pi + Energy
+
+micron-
+human hair = 100nm
+
+!Travelling salesman problem 
+Combinatorial problems,challenge for conventionalcomputers (only two states 0 & 1 )- eg Solving a subset-sum problem
+Applications -BioComputers,Biosensors
+
+Microscopes precision -10 to 50 micrometers
+Defective Mysosin slows down
